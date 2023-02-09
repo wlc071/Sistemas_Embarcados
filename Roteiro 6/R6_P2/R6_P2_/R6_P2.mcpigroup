@@ -1,0 +1,9 @@
+[PROJECTS]
+Count=5
+Project0=..\..\..\Roteiro 4\R4_P2\R4_P2.mcppi
+Project1=..\..\..\Roteiro 5\R5_P1\R5_P1_\R5_P1.mcppi
+Project2=..\..\..\Roteiro 5\R5_P2\R5_P2.mcppi
+Project3=..\..\R6_P1\R6_P1_\R6_P1.mcppi
+Project4=R6_P2.mcppi
+[ActiveProject]
+Index=4

@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo4 -N"C:\Users\walla\OneDrive\Documentos\Sistemas embarcados\Roteiros\Roteiro 4\R4_P2\R4_P2.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\walla\OneDrive\Documentos\Sistemas embarcados\Roteiros\Roteiro 4\R4_P2\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "R4_P2.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	__Lib_Delays.c
+diagnostics: 123	123	Compiled Successfully	__Lib_Delays.c
+diagnostics: 0	122	Compilation Started	R4_P2.c
+diagnostics: 138	123	Compiled Successfully	R4_P2.c
+diagnostics: 0	127	All files Compiled in 94 ms	 
+hint: 0	1144	Used RAM (bytes): 135 (38%)  Free RAM (bytes): 217 (62%)	Used RAM (bytes): 135 (38%)  Free RAM (bytes): 217 (62%)
+hint: 0	1144	Used ROM (program words): 773 (9%)  Free ROM (program words): 7419 (91%)	Used ROM (program words): 773 (9%)  Free ROM (program words): 7419 (91%)
+diagnostics: 0	125	Project Linked Successfully	R4_P2.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'R4_P2.mcppi' completed: 219 ms	 
+diagnostics: 0	103	Finished successfully: 10 nov 2022, 17:17:39	R4_P2.mcppi

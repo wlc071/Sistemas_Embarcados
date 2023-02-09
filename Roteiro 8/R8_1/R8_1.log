@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"C:\Users\walla\OneDrive\Documentos\Sistemas embarcados\Roteiros\Roteiro 8\R8_1\R8_1.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\walla\OneDrive\Documentos\Sistemas embarcados\Roteiros\Roteiro 8\R8_1\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "R8_1.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_ADC_A_C.mcl" "__Lib_EEPROM.mcl" "__Lib_FLASH_RW.mcl" "__Lib_PWM_c21.mcl" "__Lib_UART_c67.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	R8_1.c
+diagnostics: 108	123	Compiled Successfully	R8_1.c
+diagnostics: 0	127	All files Compiled in 79 ms	 
+hint: 0	1144	Used RAM (bytes): 106 (30%)  Free RAM (bytes): 246 (70%)	Used RAM (bytes): 106 (30%)  Free RAM (bytes): 246 (70%)
+hint: 0	1144	Used ROM (program words): 801 (10%)  Free ROM (program words): 7391 (90%)	Used ROM (program words): 801 (10%)  Free ROM (program words): 7391 (90%)
+diagnostics: 0	125	Project Linked Successfully	R8_1.mcppi
+diagnostics: 0	128	Linked in 15 ms	 
+diagnostics: 0	129	Project 'R8_1.mcppi' completed: 109 ms	 
+diagnostics: 0	103	Finished successfully: 02 dez 2022, 20:13:10	R8_1.mcppi
